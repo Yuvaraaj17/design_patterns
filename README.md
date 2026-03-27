@@ -1,0 +1,1 @@
+Code Examples for all SE Design Patterns - Learning Ref (https://refactoring.guru/design-patterns/catalog)
